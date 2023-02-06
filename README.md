@@ -26,7 +26,7 @@
  
  <h2 align="center">**PICASSO FAN:**</h3>
  
- <img src="guernica.2.png" width="500">
+ <img src="Guernica-2.png" width="500">
  
  
 
