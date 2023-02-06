@@ -1,4 +1,4 @@
-# LuizRio
+### Hi there <img src="sam.png" width="40"> I am LuizRio
 
 <h1 align="center">🔭 Welcome to  LuizRio's Portal 🔭</h1>
 
