@@ -21,7 +21,7 @@
 
  <br>
  
- <h2 align="center">**PICASSO FAN:**</h3>
+ <h2 align="center">**𝖕𝖎𝖈𝖆𝖘𝖘𝖔 𝖋𝖆𝖓:**</h2>
 <h2 align="center">
   
  <img width="45%" align="left" src="Guernica-2.png" /><img width="45%" align="right" src="1918_pablo_picasso_759_natura_morta.png" />
