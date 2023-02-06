@@ -24,7 +24,7 @@
  <h2 align="center">**PICASSO FAN:**</h3>
 <h2 align="center">
   
- <img width="40%" align="left" src="Guernica-2.png" /><img width="40%" align="right" src="1918_pablo_picasso_759_natura_morta.png" />
+ <img width="50%" align="left" src="Guernica-2.png" /><img width="50%" align="right" src="1918_pablo_picasso_759_natura_morta.png" />
 
   </h2
 
