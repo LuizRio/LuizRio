@@ -1,4 +1,3 @@
-#README.md
 
 <h1 align="center"><img src="sam.png" width="70"> Welcome to  LuizRio's Portal <img src="sam.png" width="70"></h1>
 
