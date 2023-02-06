@@ -1,9 +1,6 @@
+#README.md
 
-<h1 align="center"> Hi there <img src="sam.png" width="70"> I am LuizRio</h1>
-<br>
-<br>
-
-<h1 align="center">🔭 Welcome to  LuizRio's Portal 🔭</h1>
+<h1 align="center"><img src="sam.png" width="70"> Welcome to  LuizRio's Portal <img src="sam.png" width="70"></h1>
 
 <br>
 
