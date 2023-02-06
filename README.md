@@ -1,10 +1,4 @@
-<style>
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-</style>
+
 <h1 align="center"> Hi there <img src="sam.png" width="70"> I am LuizRio</h1>
 <br>
 <br>
@@ -32,8 +26,11 @@
  <br>
  
  <h2 align="center">**PICASSO FAN:**</h3>
+<h2 align="center">
+  
+ <img width="55%" align="center" src="Guernica-2.png" />
 
-  <img src="Guernica-2.png" width="700" class="center">
+  </h2
 
  
  
