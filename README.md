@@ -9,7 +9,7 @@
 
 <br>
 
-<h2 font-size: 42px align="center">**𝖑𝖊𝖓𝖌𝖚𝖆𝖌𝖊𝖘:**</h2>
+<h2 font-size:42px align="center">**𝖑𝖊𝖓𝖌𝖚𝖆𝖌𝖊𝖘:**</h2>
 
 <p align="center">   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -21,7 +21,7 @@
 
  <br>
  
- <h2 font-size: 42px align="center">**𝖕𝖎𝖈𝖆𝖘𝖘𝖔 𝖋𝖆𝖓:**</h2>
+ <h2 font-size:42px align="center">**𝖕𝖎𝖈𝖆𝖘𝖘𝖔 𝖋𝖆𝖓:**</h2>
 <h2 align="center">
   
  <img width="45%" align="left" src="Guernica-2.png" /><img width="45%" align="right" src="1918_pablo_picasso_759_natura_morta.png" />
